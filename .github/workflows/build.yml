@@ -6,7 +6,7 @@ on:
       - '*'
       - '!**-bcc**'
       - '!**-classic**'
-      - '!**-wlkc'
+      - '!**-wlkc**'
 
 jobs:
   build:
