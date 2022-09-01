@@ -7,7 +7,7 @@ Used mostly for AtlasLoot
 -- ################################
 -- Output Path / Folder must exist
 local OUTPUT_PATH = ""
-
+ 
 -- Identifier for Locales
 local IDENTIFIER = "AL"
 
